@@ -1,0 +1,16 @@
+Throughout the course, I referred to these websites for technical information or project guidance:
+
+Clicking on google map causes error messages in console:
+
+* http://stackoverflow.com/questions/9910821/google-maps-api-default-cursor-type
+* http://discussions.udacity.com/t/the-map-is-working-fine-but-an-error-shows-up-in-the-console/14155/3
+
+References:
+
+* http://d3js.org/ (didn't have time to use this)
+* helephant.com
+* api.jquery.com (category: event objects)
+* developer.mozilla.org for syntax and information on HTML, CSS, and JavaScript
+* www.w3schools.com jquery :last selector
+
+Also referred  back to my own Project 1 for a few things
